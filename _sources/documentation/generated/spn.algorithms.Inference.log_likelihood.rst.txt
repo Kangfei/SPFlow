@@ -1,0 +1,6 @@
+spn.algorithms.Inference.log\_likelihood
+========================================
+
+.. currentmodule:: spn.algorithms.Inference
+
+.. autofunction:: log_likelihood

@@ -1,0 +1,24 @@
+spn.structure.StatisticalTypes.MetaType
+=======================================
+
+.. currentmodule:: spn.structure.StatisticalTypes
+
+.. autoclass:: MetaType
+
+   
+   .. automethod:: __init__
+
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~MetaType.BINARY
+      ~MetaType.DISCRETE
+      ~MetaType.REAL
+   
+   

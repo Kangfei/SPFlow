@@ -1,0 +1,6 @@
+spn.algorithms.LearningWrappers.learn\_classifier
+=================================================
+
+.. currentmodule:: spn.algorithms.LearningWrappers
+
+.. autofunction:: learn_classifier
